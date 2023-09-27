@@ -1,5 +1,5 @@
 # 2023-ws-dscb130-tutorial
-
+ 
 ## Termin
 
 Der erste Termin ist am Donnerstag den 05.10.2023 von 8:30 bis 9:30.
